@@ -1,4 +1,4 @@
-### Hi, I'm Xojiakbar 👋
+### Hi, I'm Xojiakbar Saydullayev 👋
 
 **AI Engineer & Frontend Developer** from Uzbekistan. I build LLM-powered tools and
 fast, responsive web apps, and I'm **open to freelance work**.
