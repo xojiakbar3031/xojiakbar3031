@@ -3,6 +3,8 @@
 **AI Engineer & Frontend Developer** from Uzbekistan. I build LLM-powered tools and
 fast, responsive web apps, and I'm **open to freelance work**.
 
+🌐 **Portfolio:** https://xojiakbar3031.github.io/portfolio-pro/
+
 - 🤖 **AI**: LLM agents with tool calling, speech-to-text pipelines (Whisper),
   summarization, Telegram bots and automations
 - 💻 **Frontend**: Next.js, React, TypeScript, Tailwind CSS, accessible and responsive UI
